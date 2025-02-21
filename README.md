@@ -2,7 +2,7 @@
 
 ## Overview
 **Shyfem Toolbox** is a Python package designed to work with NetCDF files that were generated with SHYFEM and shyelab, to use it is necesary to have river node data and also is recommended to have measured data. It provides functions for:
-- Sorting river nodes (`enderezar_rios`)
+- Sorting river nodes (`sort_river_nodes`)
 - Creating subsets of NetCDF files (`create_subset_nc`)
 - Processing multiple NetCDF files automatically (`process_folder`)
 - Reading and plotting data (`reader.py`, `plotter.py`, `utils.py`)
