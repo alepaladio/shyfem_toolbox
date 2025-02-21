@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+netCDF4
+geopy
